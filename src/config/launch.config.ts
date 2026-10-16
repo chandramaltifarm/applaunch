@@ -9,7 +9,7 @@ export const launchConfig = {
   titleAccent: "is about to begin.",
   subtitle: "A new chapter starts with one unforgettable moment.",
   websiteUrl: "https://example.com",
-  launchDate: "2026-12-31T18:00:00+05:30",
+  launchDate: "2026-10-16T11:35:00+05:30",
   logoText: "L",
   eyebrow: "THE COUNTDOWN IS ON",
   ribbonLabel: "THE BIG REVEAL",
